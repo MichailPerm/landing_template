@@ -36,6 +36,10 @@
       flex-direction: row;
       justify-content: space-between;
       width: 100%;
+      align-items: center;
+      & > img {
+        height: 28.37px;
+      }
       & > .menu {
         & > .menu-item {
           @include font-link-not-active;
