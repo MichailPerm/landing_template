@@ -1,16 +1,16 @@
 <template>
   <div id="app">
-    <Button msg="Get In Touch" small/>
+    <Header />
   </div>
 </template>
 
 <script>
-  import Button from './components/Button.vue'
+  import Header from './components/Header.vue'
 
   export default {
     name: 'App',
     components: {
-      Button
+      Header
     }
   }
 </script>
