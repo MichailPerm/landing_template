@@ -1,0 +1,72 @@
+@mixin font-title-h-1 {
+  font-size:84px;
+  font-family: "Arial", serif;
+  font-weight:bold;
+  line-height:110.00000238418579px;
+}
+@mixin font-title-h-2 {
+  font-size:64px;
+  font-family: "Arial", serif;
+  font-weight:bold;
+  line-height:110.00000238418579px;
+}
+@mixin font-title-h-3 {
+  font-size:52px;
+  font-family:"Arial", serif;
+  font-weight:bold;
+  line-height:110.00000238418579px;
+}
+@mixin font-title-h-4 {
+  font-size:44px;
+  font-family:"Arial", serif;
+  font-weight:medium;
+  line-height:110.00000238418579px;
+}
+@mixin font-text-subtitle {
+  font-size:30px;
+  font-family:"Arial", serif;
+  font-weight:bold;
+  line-height:120.00000476837158px;
+}
+@mixin font-text-large-text {
+  font-size:28px;
+  font-family:"Arial", serif;
+  font-weight:normal;
+  line-height:120.00000476837158px;
+}
+@mixin font-text-medium-text {
+  font-size:24px;
+  font-family:"Arial", serif;
+  font-weight:normal;
+  line-height:129.99999523162842px;
+}
+@mixin font-text-small-text {
+  font-size:18px;
+  font-family:"Arial", serif;
+  font-weight:bold;
+  line-height:22px;
+}
+@mixin font-caption {
+  font-size:23px;
+  font-family:"Arial", serif;
+  font-weight:medium;
+  line-height:120.00000476837158px;
+}
+@mixin font-link-active {
+  font-size:21px;
+  font-family:"Arial", serif;
+  font-weight:bold;
+  line-height:135.0000023841858px;
+}
+@mixin font-link-not-active {
+  font-size:21px;
+  font-family:"Arial", serif;
+  font-weight:bold;
+  line-height:135.0000023841858px;
+}
+@mixin font-button {
+  font-size:30px;
+  font-family:"Arial", serif;
+  font-weight:bold;
+  line-height:36px;
+}
